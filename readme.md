@@ -9,8 +9,7 @@ features:
 - Timer start/stop
 - Best reaction history
 
-
-Demo: 
+Demo: https://narvs1999.github.io/games_reactiontimetester/
 
 ![Demo Image](demo-image.png)
 
